@@ -4,6 +4,8 @@ version: "1.2.1"
 api:
 - 2.0.0
 - 3.0.0
+- 3.0.0-ALPHA6
+- 3.0.1
 main: Ad5001\Functions\Main
 commands: 
     function:
